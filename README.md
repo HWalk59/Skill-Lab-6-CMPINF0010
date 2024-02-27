@@ -19,4 +19,4 @@ Enter your name: Hayen Enter your favorite number: 13 Hello, Hayen, The number o
 ## Group Members
 
 - Hanzala Rehan - [GitHub Profile](https://github.com/Hanzalar)
-- Hayden Walk - [GitHub Profile](https://github.com/HWalk59)
+- Hayden Walker - [GitHub Profile](https://github.com/HWalk59)
